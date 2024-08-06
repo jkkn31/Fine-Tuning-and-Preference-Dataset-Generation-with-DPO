@@ -68,5 +68,5 @@ By following the detailed steps and utilizing the provided links, you can replic
 If you have any questions or need further clarification, please feel free to contact me.
 
 **Krishnakanth Naik Jarapala**  
-Email: [your-email@example.com]  
-GitHub: [your-github-username]
+Email: [jkkn.iitkgp@outlook.com]  
+GitHub: [jkkn31]
