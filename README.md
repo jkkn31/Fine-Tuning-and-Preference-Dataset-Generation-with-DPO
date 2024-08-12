@@ -1,4 +1,4 @@
-# Fine-Tuning and Preference Dataset Generation with DPO
+# Fine-Tuning LLM and Preference Dataset Generation with DPO
 
 **Author**: Krishnakanth Naik Jarapala  
 
